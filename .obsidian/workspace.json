@@ -11,10 +11,14 @@
             "id": "e0083300405edee1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "legal_framework/legal_protections_for_investors_in_the_vietnam_international_financial_centre.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "legal_protections_for_investors_in_the_vietnam_international_financial_centre"
             }
           }
         ]
@@ -70,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,12 +183,28 @@
   },
   "active": "e0083300405edee1",
   "lastOpenFiles": [
+    "Decree 324 Financial Policies Of Tttc.md",
+    "legal_framework/legal_protections_for_investors_in_the_vietnam_international_financial_centre.md",
+    "Decree 323 Establishment Of Tttc.md",
+    "Decree 326 Land And Environment In Tttc.md",
+    "research/banking_activities_allowed_in_the_vietnam_international_financial_centre.md",
+    "research/attracting_global_asset_managers_to_the_vietnam_international_financial_centre.md",
+    "inbox/what_is_the_vietnam_international_financial_centre.md",
+    "Tttc Financial Center Overview.md",
+    "research/domestic_vs_foreign_institutions_in_the_vietnam_international_financial_centre.md",
+    "research/bond_issuance_opportunities_in_the_vietnam_international_financial_centre.md",
+    "research/capital_movement_rules_in_the_vietnam_international_financial_centre.md",
+    "reference/ngoai_hoi_in_the_context_of_tttc.md",
+    "reference/phong_chong_rua_tien_in_the_context_of_tttc.md",
+    "reference/co_che_thu_nghiem_co_kiem_soat_in_the_context_of_tttc.md",
+    "projects/legal_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
+    "projects/what_investment_banks_need_before_advising_clients_on_tttc.md",
+    "projects/investment_banking_perspective_on_the_vietnam_international_financial_centre.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Private Equity In The Vietnam International Financial Centre.md",
     "legal_framework/venture_capital_in_the_vietnam_international_financial_centre.md",
     "Untitled.canvas",
-    "Tttc Financial Center Overview.md",
     "legal_framework/foreign_exchange_rules_in_the_vietnam_international_financial_centre.md",
     "legal_framework/investment_banking_perspective_on_the_vietnam_international_financial_centre.md",
     "legal_framework/what_investment_banks_need_before_advising_clients_on_tttc.md",
@@ -191,21 +212,6 @@
     "legal_framework/operational_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
     "legal_framework/compliance_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
     "legal_framework/tax_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
-    "legal_framework/regulatory_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
-    "legal_framework/legal_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
-    "legal_framework/due_diligence_checklist_for_investment_banks_evaluating_tttc.md",
-    "legal_framework/follow_up_questions_for_investment_banks_entering_tttc.md",
-    "legal_framework/information_missing_from_tttc_source_documents.md",
-    "legal_framework/biggest_risks_for_investment_banks_in_the_vietnam_international_financial_centre.md",
-    "legal_framework/strongest_advantages_of_tttc_for_foreign_financial_institutions.md",
-    "legal_framework/opportunities_for_banks_asset_managers_fintech_and_investment_banks_in_tttc.md",
-    "legal_framework/tax_vs_regulatory_incentives_in_the_vietnam_international_financial_centre.md",
-    "legal_framework/domestic_vs_foreign_institutions_in_the_vietnam_international_financial_centre.md",
-    "legal_framework/ho_chi_minh_city_vs_da_nang_in_the_vietnam_international_financial_centre.md",
-    "legal_framework/co_che_thu_nghiem_co_kiem_soat_in_the_context_of_tttc.md",
-    "legal_framework/phong_chong_rua_tien_in_the_context_of_tttc.md",
-    "legal_framework/ngoai_hoi_in_the_context_of_tttc.md",
-    "legal_framework/thi_truong_von_in_the_context_of_tttc.md",
     "legal_framework",
     "Legal Framework",
     "untitled folder"
