@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4921da7ce11800df",
+    "type": "split",
+    "children": [
+      {
+        "id": "84b1f71c2dff1509",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0083300405edee1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fdeb2f341c14a7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7beaa5c73b85e5ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fd14551ee0d4fe9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3d6db3e12fad4e1b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5cf85b7f1e25e7f9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e79266918e8a6f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d22a19becf1b5b7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56908d5f31e6db00",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "616e4a3ae60db83a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "7bdd0bdc15743d81",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0d5f622fd2fb37b3",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9b011eb965ecfe3d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "e0083300405edee1",
+  "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Private Equity In The Vietnam International Financial Centre.md",
+    "legal_framework/venture_capital_in_the_vietnam_international_financial_centre.md",
+    "Untitled.canvas",
+    "Tttc Financial Center Overview.md",
+    "legal_framework/foreign_exchange_rules_in_the_vietnam_international_financial_centre.md",
+    "legal_framework/investment_banking_perspective_on_the_vietnam_international_financial_centre.md",
+    "legal_framework/what_investment_banks_need_before_advising_clients_on_tttc.md",
+    "legal_framework/market_opportunity_due_diligence_questions_for_tttc.md",
+    "legal_framework/operational_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
+    "legal_framework/compliance_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
+    "legal_framework/tax_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
+    "legal_framework/regulatory_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
+    "legal_framework/legal_due_diligence_questions_for_the_vietnam_international_financial_centre.md",
+    "legal_framework/due_diligence_checklist_for_investment_banks_evaluating_tttc.md",
+    "legal_framework/follow_up_questions_for_investment_banks_entering_tttc.md",
+    "legal_framework/information_missing_from_tttc_source_documents.md",
+    "legal_framework/biggest_risks_for_investment_banks_in_the_vietnam_international_financial_centre.md",
+    "legal_framework/strongest_advantages_of_tttc_for_foreign_financial_institutions.md",
+    "legal_framework/opportunities_for_banks_asset_managers_fintech_and_investment_banks_in_tttc.md",
+    "legal_framework/tax_vs_regulatory_incentives_in_the_vietnam_international_financial_centre.md",
+    "legal_framework/domestic_vs_foreign_institutions_in_the_vietnam_international_financial_centre.md",
+    "legal_framework/ho_chi_minh_city_vs_da_nang_in_the_vietnam_international_financial_centre.md",
+    "legal_framework/co_che_thu_nghiem_co_kiem_soat_in_the_context_of_tttc.md",
+    "legal_framework/phong_chong_rua_tien_in_the_context_of_tttc.md",
+    "legal_framework/ngoai_hoi_in_the_context_of_tttc.md",
+    "legal_framework/thi_truong_von_in_the_context_of_tttc.md",
+    "legal_framework",
+    "Legal Framework",
+    "untitled folder"
+  ]
+}
