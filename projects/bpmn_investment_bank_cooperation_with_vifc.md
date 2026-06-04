@@ -5,9 +5,9 @@
 ## Process Diagram
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph IB ["🏛️ INVESTMENT BANK (APPLICANT)"]
-        S([○ Start])
+        S((Start))
         T1[Define Service Scope\nECM · DCM · M&A · Brokerage]
         T2[Prepare License\nApplication Package]
         T3[Submit to SSC\nvia VIFC Authority]
@@ -22,15 +22,12 @@ flowchart TD
     end
 
     subgraph SSC ["🏛️ STATE SECURITIES COMMISSION — SSC"]
-        T5{⬦ Application\nApproved?}
+        T5{Application\nApproved?}
         T6[Request\nRevisions]
         T14[Issue Securities\nOperating License]
         T15[Ongoing Market\nSupervision]
     end
-
-    subgraph END [""]
-        E(((● End)))
-    end
+    E((End))
 
     S --> T1
     T1 --> T2
@@ -50,8 +47,8 @@ flowchart TD
     T13 --> T15
     T15 --> E
 
-    style S fill:#fff,stroke:#1c2f72,stroke-width:3px
-    style E fill:#1c2f72,stroke:#1c2f72,color:#fff
+    style S fill:#ffffff,stroke:#1c2f72,stroke-width:3px,color:#1c2f72
+    style E fill:#1c2f72,stroke:#1c2f72,color:#ffffff
     style T5 fill:#fff7e6,stroke:#b45309
     style IB fill:#f0f7ff,stroke:#1c2f72
     style SSC fill:#e8f8ef,stroke:#276749
@@ -64,7 +61,7 @@ flowchart TD
 | ○ Thin circle | Start Event |
 | ● Thick circle | End Event |
 | ▭ Rectangle | Task / Activity |
-| ⬦ Diamond | Gateway (Decision) |
+| [Diamond | Gateway (Decision) |
 | Swimlane | Participant / Role |
 
 ## Process Steps
@@ -95,7 +92,43 @@ flowchart TD
 - [[Bpmn Bank Cooperation With Vifc]]
 - [[Bpmn Foreign Company Cooperation With Vifc]]
 
+---
+
+## Detailed Process Information
+
+# Process Map — How Investment Banks Cooperate With VIFC
+
+
+## Key Requirements
+
+- Valid securities / investment banking license from home jurisdiction
+- Minimum 3 years operating history
+- Capital adequacy meeting VIFC requirements
+- Fit and proper assessment for all licensed representatives
+- Segregated client asset accounts
+- Compliance officer designated for VIFC operations
+
+## Services Permitted at VIFC
+- Equity and debt capital markets underwriting
+- Mergers and acquisitions advisory
+- Securities brokerage and market making
+- Fund structuring and management
+- Derivatives and structured products (subject to approval)
+
+## Applicable Decrees
+- [[Decree 329 Banking And Foreign Exchange]] — securities and FX
+- [[Decree 324 Financial Policies Of Tttc]] — tax incentives
+- [[Decree 323 Establishment Of Tttc]] — governance
+- [[Decree 325 Labor And Social Security In Tttc]] — key personnel
+
+## Related Topics
+- [[Investment Banking Opportunities In The Vietnam International Financial Centre]]
+- [[Equity Capital Markets In The Vietnam International Financial Centre]]
+- [[Debt Capital Markets In The Vietnam International Financial Centre]]
+- [[Securities Activities In The Vietnam International Financial Centre]]
+- [[Process Map How Foreign Companies Cooperate With Vifc]]
+
 *Last updated: 2026-06-04*
 
 ## Update Log
-- **2026-06-04**: Page created.
+- **2026-06-04**: Merged detailed process map content.

@@ -5,10 +5,10 @@
 ## Process Diagram
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph BANK ["🏦 BANK (APPLICANT)"]
-        S([○ Start])
-        G1{⬦ Foreign or\nDomestic Bank?}
+        S((Start))
+        G1{Foreign or\nDomestic Bank?}
         T1A[Prepare Foreign Bank\nApplication Package]
         T1B[Prepare Domestic Bank\nApplication Package]
         T2[Submit to SBV\nvia VIFC Authority]
@@ -22,15 +22,12 @@ flowchart TD
     end
 
     subgraph SBV ["🏛️ STATE BANK OF VIETNAM — SBV"]
-        T4{⬦ Application\nApproved?}
+        T4{Application\nApproved?}
         T5[Request\nRevisions]
         T12[Issue Banking\nLicense for VIFC]
         T13[Ongoing\nSupervision]
     end
-
-    subgraph END [""]
-        E(((● End)))
-    end
+    E((End))
 
     S --> G1
     G1 -->|Foreign| T1A
@@ -51,8 +48,8 @@ flowchart TD
     T11 --> T13
     T13 --> E
 
-    style S fill:#fff,stroke:#1c2f72,stroke-width:3px
-    style E fill:#1c2f72,stroke:#1c2f72,color:#fff
+    style S fill:#ffffff,stroke:#1c2f72,stroke-width:3px,color:#1c2f72
+    style E fill:#1c2f72,stroke:#1c2f72,color:#ffffff
     style G1 fill:#fff7e6,stroke:#b45309
     style T4 fill:#fff7e6,stroke:#b45309
     style BANK fill:#f0f7ff,stroke:#1c2f72
@@ -66,7 +63,7 @@ flowchart TD
 | ○ Thin circle | Start Event |
 | ● Thick circle | End Event |
 | ▭ Rectangle | Task / Activity |
-| ⬦ Diamond | Gateway (Decision) |
+| [Diamond | Gateway (Decision) |
 | Swimlane | Participant / Role |
 
 ## Process Steps
@@ -96,7 +93,41 @@ flowchart TD
 - [[Aml And Compliance Summary For Investment Banks In Tttc]]
 - [[Bpmn Foreign Company Cooperation With Vifc]]
 
+---
+
+## Detailed Process Information
+
+# Process Map — How Banks Cooperate With VIFC
+
+
+## Key Requirements for Banks
+
+### Foreign Banks
+- Valid banking license from home jurisdiction
+- Minimum 3 years of profitable operation
+- Minimum capital as specified under Decree 329
+- Fit and proper assessment for all directors and key executives
+- Demonstrated compliance programme (AML/CFT)
+
+### Domestic Banks
+- Existing SBV license
+- Board resolution to establish VIFC presence
+- Capital ring-fenced for VIFC operations
+- Designated VIFC compliance officer
+
+## Applicable Decrees
+- [[Decree 329 Banking and Foreign Exchange]] — primary licensing decree
+- [[Decree 324 Financial Policies of TTTC]] — tax incentives
+- [[Decree 323 Establishment of TTTC]] — governance framework
+
+## Related Topics
+- [[Foreign Banks In The Vietnam International Financial Centre]]
+- [[Domestic Banks In The Vietnam International Financial Centre]]
+- [[Foreign Exchange Rules In The Vietnam International Financial Centre]]
+- [[Aml And Compliance Summary For Investment Banks In Tttc]]
+- [[Process Map How Foreign Companies Cooperate With Vifc]]
+
 *Last updated: 2026-06-04*
 
 ## Update Log
-- **2026-06-04**: Page created.
+- **2026-06-04**: Merged detailed process map content.

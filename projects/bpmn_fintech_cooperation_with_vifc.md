@@ -5,15 +5,15 @@
 ## Process Diagram
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph FINTECH ["💻 FINTECH COMPANY (APPLICANT)"]
-        S([○ Start])
-        G1{⬦ Entry\nPath?}
+        S((Start))
+        G1{Entry\nPath?}
         T1A[Prepare Sandbox\nApplication\n— Decree mechanism]
         T1B[Prepare Full\nLicense Application]
         T4[Address\nDeficiencies]
         T7[Operate Under\nSandbox Conditions\nMax 2 Years]
-        G2{⬦ Sandbox\nOutcome?}
+        G2{Sandbox\nOutcome?}
         T8[Remediate Issues\n& Extend Sandbox]
         T9[Apply for\nFull Operating License]
         T10[Complete AML/KYC\nSetup]
@@ -23,16 +23,13 @@ flowchart TD
     end
 
     subgraph AUTH ["🏛️ VIFC FINTECH REGULATORY AUTHORITY"]
-        T2{⬦ Application\nApproved?}
+        T2{Application\nApproved?}
         T3[Request\nRevisions]
         T5[Grant Sandbox\nApproval]
         T6[Issue Full\nOperating License]
         T14[Ongoing\nSupervision]
     end
-
-    subgraph END [""]
-        E(((● End)))
-    end
+    E((End))
 
     S --> G1
     G1 -->|Sandbox First| T1A
@@ -58,8 +55,8 @@ flowchart TD
     T13 --> T14
     T14 --> E
 
-    style S fill:#fff,stroke:#1c2f72,stroke-width:3px
-    style E fill:#1c2f72,stroke:#1c2f72,color:#fff
+    style S fill:#ffffff,stroke:#1c2f72,stroke-width:3px,color:#1c2f72
+    style E fill:#1c2f72,stroke:#1c2f72,color:#ffffff
     style G1 fill:#fff7e6,stroke:#b45309
     style G2 fill:#fff7e6,stroke:#b45309
     style T2 fill:#fff7e6,stroke:#b45309
@@ -74,7 +71,7 @@ flowchart TD
 | ○ Thin circle | Start Event |
 | ● Thick circle | End Event |
 | ▭ Rectangle | Task / Activity |
-| ⬦ Diamond | Gateway (Decision) |
+| [Diamond | Gateway (Decision) |
 | Swimlane | Participant / Role |
 
 ## Process Steps
@@ -104,7 +101,39 @@ flowchart TD
 - [[Compliance Requirements In The Vietnam International Financial Centre]]
 - [[Bpmn Foreign Company Cooperation With Vifc]]
 
+---
+
+## Detailed Process Information
+
+# Process Map — How Fintech Companies Cooperate With VIFC
+
+
+## Key Requirements
+
+### Regulatory Sandbox Entry
+- Innovative financial technology with clear use case
+- Consumer protection and risk mitigation plan
+- Technical documentation of the solution
+- Exit/wind-down strategy
+- Minimum capital as required
+
+### Full License Requirements
+- Completed sandbox (or equivalent overseas track record)
+- Full AML/KYC compliance programme
+- Data localisation compliance
+- Cybersecurity assessment
+
+## Applicable Decrees
+- [[Special Legal Mechanisms In The Vietnam International Financial Centre]] — sandbox framework
+- [[Decree 329 Banking And Foreign Exchange]] — payment fintech
+- [[Decree 324 Financial Policies Of Tttc]] — tax incentives
+
+## Related Topics
+- [[Co Che Thu Nghiem Co Kiem Soat In The Context Of Tttc]]
+- [[Compliance Requirements In The Vietnam International Financial Centre]]
+- [[Process Map How Foreign Companies Cooperate With Vifc]]
+
 *Last updated: 2026-06-04*
 
 ## Update Log
-- **2026-06-04**: Page created.
+- **2026-06-04**: Merged detailed process map content.

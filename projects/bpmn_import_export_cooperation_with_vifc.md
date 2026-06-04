@@ -5,10 +5,10 @@
 ## Process Diagram
 
 ```mermaid
-flowchart TD
+flowchart LR
     subgraph COMPANY ["📦 IMPORT/EXPORT COMPANY (APPLICANT)"]
-        S([○ Start])
-        G1{⬦ Activity\nType?}
+        S((Start))
+        G1{Activity\nType?}
         T1A[Apply for Commodities\nExchange Membership\n— Decree 330]
         T1B[Apply for Trade\nFinance Registration]
         T1C[Apply for General\nImport/Export License]
@@ -21,19 +21,16 @@ flowchart TD
     end
 
     subgraph AUTH ["🏛️ VIFC AUTHORITY / EXCHANGE"]
-        T2A{⬦ Membership\nApproved?}
-        T2B{⬦ Registration\nApproved?}
-        T2C{⬦ License\nApproved?}
+        T2A{Membership\nApproved?}
+        T2B{Registration\nApproved?}
+        T2C{License\nApproved?}
         T3[Request\nRevisions]
         T5A[Issue Exchange\nMembership Certificate]
         T5B[Issue Trade Finance\nRegistration]
         T5C[Issue Import/Export\nBusiness License]
         T6[Ongoing Compliance\nMonitoring]
     end
-
-    subgraph END [""]
-        E(((● End)))
-    end
+    E((End))
 
     S --> G1
     G1 -->|Commodities| T1A
@@ -65,8 +62,8 @@ flowchart TD
     T9 --> T6
     T6 --> E
 
-    style S fill:#fff,stroke:#1c2f72,stroke-width:3px
-    style E fill:#1c2f72,stroke:#1c2f72,color:#fff
+    style S fill:#ffffff,stroke:#1c2f72,stroke-width:3px,color:#1c2f72
+    style E fill:#1c2f72,stroke:#1c2f72,color:#ffffff
     style G1 fill:#fff7e6,stroke:#b45309
     style T2A fill:#fff7e6,stroke:#b45309
     style T2B fill:#fff7e6,stroke:#b45309
@@ -82,7 +79,7 @@ flowchart TD
 | ○ Thin circle | Start Event |
 | ● Thick circle | End Event |
 | ▭ Rectangle | Task / Activity |
-| ⬦ Diamond | Gateway (Decision) |
+| [Diamond | Gateway (Decision) |
 | Swimlane | Participant / Role |
 
 ## Process Steps
@@ -107,7 +104,44 @@ flowchart TD
 - [[Cross Border Payments In The Vietnam International Financial Centre]]
 - [[Bpmn Foreign Company Cooperation With Vifc]]
 
+---
+
+## Detailed Process Information
+
+# Process Map — How Import and Export Companies Cooperate With VIFC
+
+
+## Key Requirements
+
+### Commodities Exchange Members (Decree 330)
+- Registered company in Vietnam or foreign branch
+- Minimum capital as specified in Decree 330
+- Designated compliance officer
+- Trading system compatibility
+
+### Trade Finance Operators
+- Financial services license or banking partnership
+- AML/KYC programme compliant with Decree 329
+- Foreign exchange registration for cross-border transactions
+
+### General Import/Export Companies
+- Valid business registration certificate
+- Import/export business license
+- Customs registration with General Department of Vietnam Customs
+
+## Applicable Decrees
+- [[Decree 330 Commodities Exchange In Tttc]] — commodities trading
+- [[Decree 329 Banking And Foreign Exchange]] — cross-border payments
+- [[Decree 324 Financial Policies Of Tttc]] — tax incentives on trade
+- [[Decree 326 Land And Environment In Tttc]] — warehousing and logistics zones
+
+## Related Topics
+- [[Cross Border Payments In The Vietnam International Financial Centre]]
+- [[Financial Products And Instruments In The Vietnam International Financial Centre]]
+- [[Tax Incentives In The Vietnam International Financial Centre]]
+- [[Process Map How Foreign Companies Cooperate With Vifc]]
+
 *Last updated: 2026-06-04*
 
 ## Update Log
-- **2026-06-04**: Page created.
+- **2026-06-04**: Merged detailed process map content.
