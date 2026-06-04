@@ -3,72 +3,45 @@
 ## Summary
 Decree 323 concerns the establishment of TTTC (Trung tâm Tài chính — Financial Centre) and was issued by the Office of the Government of Vietnam (Văn phòng Chính phủ). It is one of several related decrees addressing various aspects of the financial centre's establishment and operation. All known related decrees were likewise issued by the Văn phòng Chính phủ. The suite of decrees covers areas including financial policy, land and environment, immigration, labor and social security, international arbitration, banking and foreign exchange, and commodity exchanges. For a broader overview of these instruments, see [[Financial Center Decrees]] and [[Legal Documents Establishing The Vietnam International Financial Centre]].
 
+Decree 323 itself establishes the governance architecture of the [[What Is The Vietnam International Financial Centre|Vietnam International Financial Centre]], including the roles of the Cơ quan điều hành (governing authority), the Cơ quan giám sát (supervisory authority), and the responsibilities of the host cities. The decree also enumerates permitted business activities within the financial centre, including financial crime compliance services. The broader legislative basis for the financial centre is Resolution No. 222/2025/QH15 of the National Assembly, which all related decrees implement.
+
 ## Key Points
-- Decree 323 was issued by the Office of the Government of Vietnam (Văn phòng Chính phủ) and pertains to the establishment of [[Tttc Financial Center Overview|TTTC]]. [5]
-- Several related decrees were issued alongside Decree 323, all by the Văn phòng Chính phủ, covering areas such as financial policy ([[Decree 324 Financial Policies Of Tttc|Decree 324]]), land and environment ([[Decree 326 Land And Environment In Tttc|Decree 326]]), immigration policy ([[Decree 327 Immigration Policy|Decree 327]]), labor, employment, and social security ([[Decree 325 Labor And Social Security In Tttc|Decree 325]]), international arbitration ([[Decree 328 International Arbitration Center|Decree 328]]), banking licensing and foreign exchange management ([[Decree 329 Banking And Foreign Exchange|Decree 329]]), and the establishment and operation of commodity exchanges ([[Decree 330 Commodities Exchange In Tttc|Decree 330]]) within TTTC. [1][2][3][4][5][6]
-- The consistent issuing authority across all related decrees confirms that the suite of TTTC-related legislation was coordinated at the central government level through the Văn phòng Chính phủ. [1][2][3][4][5][6]
-- [[Decree 327 Immigration Policy|Decree 327]] is dated 18 December 2025 and includes provisions for permanent residency (thường trú) for foreigners working at the Vietnam International Financial Centre. [3]
-- [[Decree 325 Labor And Social Security In Tttc|Decree 325]] contains detailed social insurance provisions for both Vietnamese and foreign workers at the financial centre, including mandatory social insurance under the Social Insurance Law No. 41/2024/QH15. Foreign workers not ordinarily subject to mandatory social insurance may opt in, with contribution salary levels set between the reference level and 20 times the reference level. [5]
-- [[Decree 324 Financial Policies Of Tttc|Decree 324]] sets out procedures for licensing securities business organisations as Members of the financial centre, including requirements for audited financial statements from the two most recent years and a draft charter of organisation and operations. Applications may be submitted in person, by post, or via an online system to the Cơ quan điều hành (governing authority). [2]
-- [[Decree 329 Banking And Foreign Exchange|Decree 329]] includes governance requirements for member commercial banks, such as mandatory Risk Management Committees and Personnel Committees with at least three members each, the majority of whom must be non-executive. Within 10 days of establishment, banks must submit relevant internal regulations to the city governing authority and supervisory body. [6]
-- [[Decree 330 Commodities Exchange In Tttc|Decree 330]] provides for the approval of clearing centres (Trung tâm thanh toán bù trừ) for commodity exchanges operating within the Vietnam International Financial Centre, with approved entities required to comply with the decree's provisions and all relevant legislation. [1]
 
-## Definitions
-- **TTTC** — An abbreviation used in the source documents, referring to "Trung tâm Tài chính" (Financial Centre), the subject of Decree 323 and related decrees. See also [[What Is The Vietnam International Financial Centre]] and [[Trung Tam Tai Chinh Quoc Te Definition And Importance]]. [5]
-- **Văn phòng Chính phủ** — The Office of the Government of Vietnam, identified as the issuing authority of Decree 323 and all known related decrees. [1][2][3][4][5][6]
-- **Cơ quan điều hành** — The governing/administrative authority within the financial centre, responsible for receiving licensing applications and overseeing member institutions. Referenced in both [[Decree 324 Financial Policies Of Tttc|Decree 324]] and [[Decree 329 Banking And Foreign Exchange|Decree 329]]. [2][6]
-- **Trung tâm thanh toán bù trừ** — Clearing centre; an entity approved under [[Decree 330 Commodities Exchange In Tttc|Decree 330]] to perform clearing and settlement functions for commodity exchanges within TTTC. [1]
-- **Bảo hiểm xã hội** — Social insurance; regulated under [[Decree 325 Labor And Social Security In Tttc|Decree 325]] for both Vietnamese and foreign workers at the financial centre, pursuant to Social Insurance Law No. 41/2024/QH15. [5]
-- **Thường trú** — Permanent residency; a status available to foreign nationals working at the Vietnam International Financial Centre under the provisions of [[Decree 327 Immigration Policy|Decree 327]]. [3]
+### Decree 323 — Establishment of TTTC
+- Decree 323 was issued by the Office of the Government of Vietnam (Văn phòng Chính phủ) and pertains to the establishment of [[Tttc Financial Center Overview|TTTC]]. [5-existing]
+- The Cơ quan điều hành (governing authority) is established at both Ho Chi Minh City and Da Nang. The governing authorities of the two cities are responsible for issuing, renewing, extending, and revoking work permits and confirmations of exemption from work permits for foreign workers employed by member organisations in their respective cities. [4]
+- The Cơ quan giám sát (supervisory authority) has functions including inspection, examination, supervision, prevention, and handling of violations within the financial centre, ensuring that members, investors, organisations, and individuals comply with regulations. [6]
+- The supervisory authority's duties include: issuing operational plans and procedural regulations; conducting scheduled and ad hoc inspections; coordinating with relevant agencies on evaluation and monitoring of controlled pilot policies ([[Co Che Thu Nghiem Co Kiem Soat In The Context Of Tttc|cơ chế thử nghiệm có kiểm soát]]); and managing personnel including transfers, appointments, dismissals, retirement, commendations, and disciplinary actions. [6]
+- The Cơ quan điều hành and Cơ quan giám sát are jointly responsible for issuing financial transparency and disclosure standards to ensure accountability and independent audit of financial centre assets. [10]
+- The Cơ quan giám sát is responsible for periodically inspecting and supervising the management and use of the financial centre's assets and finances. All organisations within the financial centre are required to periodically and publicly disclose their financial and asset management in compliance with applicable law. [10]
+- Host city People's Committees are responsible for: allocating budget for the operations of the Cơ quan điều hành and Cơ quan giám sát; issuing coordination regulations on land, construction, infrastructure, public services, and security; supporting organisations within the financial centre; and proactively addressing difficulties or reporting to higher authorities for resolution. [3]
+- Permitted business activities within TTTC include investment in financial training infrastructure, financial technology, and international examination and certification centres, as well as services related to compliance with financial crime laws, including [[Anti Money Laundering Rules In The Vietnam International Financial Centre|anti-money laundering (AML)]] and counter-terrorism financing (CFT) measures, FATF recommendations, and other related compliance activities. [5]
+- The consistent issuing authority across all related decrees confirms that the suite of TTTC-related legislation was coordinated at the central government level through the Văn phòng Chính phủ. [1-existing][2-existing][3-existing][4-existing][5-existing][6-existing]
 
-## Related Decrees
-| Decree | Subject Area | Wiki Page |
-|--------|-------------|-----------|
-| Decree 323 | Establishment of TTTC | [[Decree 323 Establishment Of Tttc]] |
-| Decree 324 | Financial policy within TTTC | [[Decree 324 Financial Policies Of Tttc]] |
-| Decree 325 | Labor, employment, and social security within TTTC | [[Decree 325 Labor And Social Security In Tttc]] |
-| Decree 326 | Land and environment within TTTC | [[Decree 326 Land And Environment In Tttc]] |
-| Decree 327 | Immigration policy within TTTC | [[Decree 327 Immigration Policy]] |
-| Decree 328 | International arbitration centre within TTTC | [[Decree 328 International Arbitration Center]] |
-| Decree 329 | Banking licensing and foreign exchange management | [[Decree 329 Banking And Foreign Exchange]] |
-| Decree 330 | Establishment and operation of commodity exchanges | [[Decree 330 Commodities Exchange In Tttc]] |
+### Decree 324 — Financial Policies
+- [[Decree 324 Financial Policies Of Tttc|Decree 324]] was issued pursuant to Resolution No. 222/2025/QH15 of the National Assembly on the Vietnam International Financial Centre, upon the proposal of the Minister of Finance. It implements Articles 10, 11, 12, 18, 19, 24, 26, 27, and 31 of Resolution No. 222/2025/QH15. [9]
+- The decree applies to: Members of the financial centre; investors; organisations and bodies belonging to the financial centre; and other relevant organisations and individuals whose activities are governed by Resolution No. 222/2025/QH15. [9]
+- Members may prepare financial statements and consolidated financial statements in accordance with International Accounting Standards (IAS) or Generally Accepted Accounting Principles (GAAP), in which case they are not required to prepare additional statements under Vietnamese Accounting Standards. Such internationally prepared financial statements constitute the legal financial reports of the entity and are used for submission to competent authorities and public disclosure. [11]
+- Members must prepare and submit financial statements and consolidated financial statements to the Cơ quan điều hành, Cơ quan giám sát, and competent Vietnamese authorities in accordance with applicable accounting law. [11]
+- Securities business organisations that are Members are not required to consolidate their financial statements with those of their domestic investor-parent, and their activities are excluded when calculating the financial safety ratios of the domestic securities business investor. [8]
+- The Cơ quan điều hành is the competent authority to issue, amend, supplement, and revoke establishment and operating licences for securities business organisations that are Members. [8]
+- Members and their employees may participate in insurance at: insurance enterprises established and operating within the international financial centre; insurance enterprises established and operating in the remainder of Vietnam; or insurance enterprises abroad. [1]
+- The Cơ quan điều hành is the competent authority to issue, amend, supplement, and revoke establishment and operating licences for insurance enterprises, reinsurance enterprises, and insurance brokerage enterprises within the international financial centre. [1][2]
+- The establishment and operating licence for an insurance enterprise, reinsurance enterprise, or insurance brokerage enterprise simultaneously constitutes the enterprise registration certificate and the Member registration certificate. [2]
+- Insurance enterprises, reinsurance enterprises, and insurance brokerage enterprises must be established in the form of a limited liability company (công ty trách nhiệm hữu hạn). [2]
+- Conditions for licensing include: the investor must be a legal entity; domestic investors must be an insurance, reinsurance, or brokerage enterprise already established in Vietnam under the Law on Insurance Business, operating directly in the relevant field for at least five consecutive years immediately preceding the application, with charter capital in cash no lower than the minimum required under Vietnamese law on insurance business, which must be blocked at a licensed commercial bank or foreign bank branch in Vietnam. [2]
+- [[Decree 324 Financial Policies Of Tttc|Decree 324]] sets out procedures for licensing securities business organisations as Members of the financial centre, including requirements for audited financial statements from the two most recent years and a draft charter of organisation and operations. Applications may be submitted in person, by post, or via an online system to the Cơ quan điều hành. [2-existing]
 
-## Related Topics
-- [[Legal Framework Of Tttc]]
-- [[Legal Documents Establishing The Vietnam International Financial Centre]]
-- [[Financial Center Decrees]]
-- [[Main Decrees Related To The Vietnam International Financial Centre]]
-- [[Tttc Financial Center Overview]]
-- [[What Is The Vietnam International Financial Centre]]
-- [[Main Goals Of The Vietnam International Financial Centre]]
-- [[Main Functions Of The Vietnam International Financial Centre]]
-- [[Decree 324 Financial Policies Of Tttc]]
-- [[Decree 325 Labor And Social Security In Tttc]]
-- [[Decree 326 Land And Environment In Tttc]]
-- [[Decree 327 Immigration Policy]]
-- [[Decree 328 International Arbitration Center]]
-- [[Decree 329 Banking And Foreign Exchange]]
-- [[Decree 330 Commodities Exchange In Tttc]]
-- [[Tax Incentives And Exemptions]]
-- [[Foreign Investment Rules In Tttc]]
-- [[Currency And Capital Controls]]
-- [[Dispute Resolution Mechanisms]]
-- [[Labor And Employment Rules In The Vietnam International Financial Centre]]
-- [[Immigration And Residency Policies For Tttc Workers]]
-- [[Capital Market Activities Allowed In The Vietnam International Financial Centre]]
-- [[Banking Activities Allowed In The Vietnam International Financial Centre]]
-- [[Licenses And Approvals For Financial Institutions In Tttc]]
-- [[Risk Management Requirements In The Vietnam International Financial Centre]]
-- [[Compliance Requirements In The Vietnam International Financial Centre]]
-- [[Foreign Worker Regulations]]
+### Decree 325 — Labor and Social Security
+- [[Decree 325 Labor And Social Security In Tttc|Decree 325]] defines employers within the financial centre as including: Members of the financial centre; the Cơ quan điều hành; the Cơ quan giám sát; and the dispute resolution body (Cơ quan giải quyết tranh chấp), as defined in clauses 2, 5, and 6 of Article 3 and point c, clause 1 of Article 9 of Resolution No. 222/2025/QH15. [4]
+- Employers within TTTC are permitted to independently recruit Vietnamese workers in accordance with the Labour Code No. 45/2019/QH14, and to independently recruit foreign workers according to their operational needs without being subject to any quota or ratio limit on foreign workers, provided such recruitment does not affect national security. [4]
+- The Cơ quan điều hành at Ho Chi Minh City and Da Nang each have authority to issue, reissue, extend, and revoke work permits and exemption confirmations for foreign workers employed by organisations within the financial centre in their respective cities. [4]
+- [[Decree 325 Labor And Social Security In Tttc|Decree 325]] contains detailed social insurance provisions for
 
-## Sources
-1. Nghi_dinh_330_ve_thanh_lap_va_hoat_dong_cua_So_giao_dich_hang_hoa_trong_TTTC.pdf (pages 2, 21)
-2. Nghi_dinh
-
-*Last updated: 2026-06-03*
+*Last updated: 2026-06-04*
 
 ## Update Log
 - **2026-06-03**: Page created.
 - **2026-06-03**: Updated with new source retrieval.
 - **2026-06-03**: Updated with new source retrieval.
+- **2026-06-04**: Updated with new source retrieval.
